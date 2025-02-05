@@ -40,4 +40,4 @@ I'm always open to collaborating on exciting projects or discussing data enginee
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sujangyawali&label=Profile%20views&color=0e75b6&style=flat" alt="Sujan Gyawali" /> </p>
